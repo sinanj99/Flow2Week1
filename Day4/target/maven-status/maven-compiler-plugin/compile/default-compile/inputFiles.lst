@@ -1,0 +1,15 @@
+/Users/sinanjasar/Desktop/3sem/Flow2/Week1/Day4/src/main/java/dto/OrderDTO.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week1/Day4/src/main/java/entities/ItemType.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week1/Day4/src/main/java/facades/OrderFacade.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week1/Day4/src/main/java/dto/ItemTypeDTO.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week1/Day4/src/main/java/facades/CustomerFacade.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week1/Day4/src/main/java/facades/ItemTypeFacade.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week1/Day4/src/main/java/entities/OrderLine.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week1/Day4/src/main/java/utils/EMF_Creator.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week1/Day4/src/main/java/utils/Settings.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week1/Day4/src/main/java/rest/ApplicationConfig.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week1/Day4/src/main/java/rest/OrderResource.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week1/Day4/src/main/java/rest/CustomerResource.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week1/Day4/src/main/java/entities/Customer.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week1/Day4/src/main/java/entities/Order.java
+/Users/sinanjasar/Desktop/3sem/Flow2/Week1/Day4/src/main/java/dto/CustomerDTO.java
